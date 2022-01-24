@@ -1,0 +1,102 @@
+{
+    "results": [
+        {
+            "id": 399566,
+            "title": "Sweat",
+            "price": "120€",
+            "picture": "assets/img/image1.jpg",
+            "size": "L",
+            "inCart" : 0
+        },
+        {
+            "id": 615678,
+            "title": "Ceinture",
+            "price": "150€",
+            "picture": "assets/img/image2.webp",
+            "size": "Unique"
+        },
+        {
+            "id": 460465,
+            "title": "Doudoune",
+            "price": "390€",
+            "picture": "assets/img/image3.webp",
+            "size": "XS",
+            "inCart" : 0
+        },
+        {
+            "id": 791373,
+            "title": "Bonnet",
+            "price": "240€",
+            "picture": "assets/img/image4.jpg",
+            "size": "Unique",
+            "inCart" : 0
+        },
+        {
+            "id": 634528,
+            "title": "Pantalon",
+            "price": "199€",
+            "picture": "assets/img/image5.webp",
+            "size": "XL",
+            "inCart" : 0
+        },
+        {
+            "id": 412656,
+            "title": "Veste",
+            "price": "135€",
+            "picture": "assets/img/image6.webp",
+            "size": "L",
+            "inCart" : 0
+        },
+        {
+            "id": 615457,
+            "title": "Hoodie",
+            "price": "90€",
+            "picture": "assets/img/image7.webp",
+            "size": "M",
+            "inCart" : 0
+        },
+        {
+            "id": 527774,
+            "title": "Bob",
+            "price": "159€",
+            "picture": "assets/img/image8.jpg",
+            "size": "S",
+            "inCart" : 0
+        },
+
+
+        {
+            "id": 527774,
+            "title": "Porte-feuille",
+            "price": "55€",
+            "picture": "assets/img/image9.webp",
+            "size": "Unique",
+            "inCart" : 0
+        },
+
+        {
+            "id": 527774,
+            "title": "Hoodie",
+            "price": "699€",
+            "picture": "assets/img/image10.webp",
+            "size": "Unique",
+            "inCart" : 0
+        },
+        {
+            "id": 527774,
+            "title": "T-shirt",
+            "price": "340€",
+            "picture": "assets/img/image11.webp",
+            "size": "M",
+            "inCart" : 0
+        },
+        {
+            "id": 527774,
+            "title": "Chaussettes",
+            "price": "65€",
+            "picture": "assets/img/image12.jpg",
+            "size": "Unique",
+            "inCart" : 0
+        }
+    ]
+}
